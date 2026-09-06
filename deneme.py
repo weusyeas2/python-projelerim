@@ -1,1 +1,4 @@
-print("hello world")
+first_number=int(input("enter the first number:"))
+second_number=int(input("enter the second number:"))
+total=first_number+second_number
+print(total)
