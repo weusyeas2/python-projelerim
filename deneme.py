@@ -1,4 +1,4 @@
-first_number=int(input("enter the first number:"))
-second_number=int(input("enter the second number:"))
-total=first_number+second_number
-print(total)
+dairenin_yariçapi=float(input("dairenin yari çapini giriniz:"))
+pi=3.145763
+dairenin_alani=pi*(dairenin_yariçapi**2)
+print(dairenin_alani)
